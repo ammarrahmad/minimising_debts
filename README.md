@@ -26,7 +26,7 @@ This project focuses on solving the problem of minimizing the number of transact
    - The results highlight which approaches offer decent approximations for the problem within practical constraints.
 
 5. **Comprehensive Presentation**:
-   - A video walkthrough of the project explains the theory, implementation, and results. You can access the video [here]([https://drive.google.com/file/d/your-video-link](https://drive.google.com/file/d/1rnxwr4caF9Bz_vF38rGbftq8Qh2tHPGO/view?usp=sharing)).
+   - A video walkthrough of the project explains the theory, implementation, and results. You can access the video [here](https://drive.google.com/file/d/1rnxwr4caF9Bz_vF38rGbftq8Qh2tHPGO/view?usp=sharing).
 ---
 
 ## Key Results
